@@ -720,6 +720,7 @@ class RazerHuntsmanElite(_RippleKeyboard):
         "top_img": "https://assets.razerzone.com/eeimages/support/products/1361/1361_huntsman_elite.png"
     }
 
+
 class RazerHuntsmanTournamentEdition(_RippleKeyboard):
     """
     Class for the Razer Huntsman Tournament Edition
@@ -744,6 +745,7 @@ class RazerHuntsmanTournamentEdition(_RippleKeyboard):
     RAZER_URLS = {
         "top_img": "https://assets.razerzone.com/eeimages/support/products/1537/1537_huntsman_te.png"
     }
+
 
 class RazerBlackWidowElite(_RippleKeyboard):
     """
